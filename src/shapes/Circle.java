@@ -20,6 +20,7 @@ public class Circle {
     
     public void drawCircle(){
         System.out.println ("Circle");
+        System.out.println ("Circle2");
     }
     
     public void calcAreaCircle(double radius){
