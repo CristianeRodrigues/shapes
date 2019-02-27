@@ -16,12 +16,15 @@ public class Circle {
     
     public void setRadius(double radius){
         this.radius = radius;
+        System.out.println ("radius");
+        
     }
     
     public void drawCircle(){
         System.out.println ("Circle");
         System.out.println ("Circle2");
         System.out.println ("Circle3");
+        System.out.println ("Circle4");
     }
     
     public void calcAreaCircle(double radius){
