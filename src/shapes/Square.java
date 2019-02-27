@@ -1,0 +1,29 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package shapes;
+
+/**
+ *
+ * @author Carlos
+ */
+public class Square {
+    
+    double area;
+    double sizeEdges;
+    
+    public void setSizeEdges(double sizeEdges){
+        this.sizeEdges = sizeEdges;
+    }
+    
+    public void drawSquare(){
+        System.out.println ("Square");
+    }
+    
+    public void calcAreaSquare(double sizeEdges){
+        this.area = Math.pow(sizeEdges,2);
+    }
+    
+}
