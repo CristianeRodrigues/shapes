@@ -20,6 +20,7 @@ public class Square {
     
     public void drawSquare(){
         System.out.println ("Square");
+        System.out.println ("Square2");
     }
     
     public void calcAreaSquare(double sizeEdges){
