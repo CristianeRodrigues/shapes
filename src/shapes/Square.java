@@ -16,12 +16,14 @@ public class Square {
     
     public void setSizeEdges(double sizeEdges){
         this.sizeEdges = sizeEdges;
+        System.out.println ("size edges");
     }
     
     public void drawSquare(){
         System.out.println ("Square");
         System.out.println ("Square2");
         System.out.println ("Square3");
+        System.out.println ("Square4");
     }
     
     public void calcAreaSquare(double sizeEdges){
