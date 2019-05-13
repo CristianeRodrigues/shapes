@@ -24,7 +24,6 @@ public class Circle {
         System.out.println ("Circle");
         System.out.println ("Circle2");
         System.out.println ("Circle3");
-        System.out.println ("Circle4");
     }
     
     public void calcAreaCircle(double radius){

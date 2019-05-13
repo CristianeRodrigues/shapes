@@ -17,6 +17,7 @@ public class Square {
     public void setSizeEdges(double sizeEdges){
         this.sizeEdges = sizeEdges;
         System.out.println ("size edges");
+        System.out.println ("size edges2");
     }
     
     public void drawSquare(){
