@@ -23,7 +23,6 @@ public class Diamond {
     public void drawDiamond(){
         System.out.println ("Diamond");
         System.out.println ("Diamond2");
-        System.out.println ("Diamond3");
     }
     
     public void calcAreaDiamond(double little_diagonal, double big_diagonal){
