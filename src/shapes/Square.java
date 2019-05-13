@@ -25,6 +25,7 @@ public class Square {
         System.out.println ("Square");
         System.out.println ("Square2");
         System.out.println ("Square3");
+        System.out.println ("Square4");
     }
     
     public void calcAreaSquare(double sizeEdges){
