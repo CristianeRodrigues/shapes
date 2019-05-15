@@ -13,6 +13,7 @@ public class Square {
     
     double area;
     double sizeEdges;
+    String color;
     
     public void setSizeEdges(double sizeEdges){
         this.sizeEdges = sizeEdges;
